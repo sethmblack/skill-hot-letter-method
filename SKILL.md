@@ -3,8 +3,9 @@ name: hot-letter-method
 description: Process emotional reactions constructively before responding. Write the angry response first, set it aside, then craft a measured reply. Based on Lincoln's practice of writing furious letters, fold...
 license: MIT
 metadata:
+  version: 1.0.4180
   author: sethmblack
-  version: 1.0.1
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - escalation
 - hot-letter-method
